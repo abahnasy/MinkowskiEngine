@@ -35,6 +35,7 @@
 #include <iterator>
 #include <limits>
 #include <type_traits>
+#include <thrust/execution_policy.h>
 
 namespace {
 template <std::size_t N>
